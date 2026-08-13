@@ -5,6 +5,7 @@ Hi! I’m @Jucksun
 -  ✨Pronouns: He/Him
 -  ✨Fun fact: I originally didn't know PyTorch existed, and built my first neural network with NumPy.
 
+Dis my website : (https://jacksonsobservatory.com/)
 <!---
 Jucksun/Jucksun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
